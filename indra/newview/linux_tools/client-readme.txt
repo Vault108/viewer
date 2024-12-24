@@ -72,7 +72,7 @@ Minimum requirements:
 
 For a more comfortable experience, the RECOMMENDED hardware for the Second
 Life Linux client is very similar to that for Windows, as detailed at:
-<https://secondlife.com/corporate/sysreqs.php>
+<https://secondlife.com/support/sysreqs.php>
 
 
 3. INSTALLING & RUNNING

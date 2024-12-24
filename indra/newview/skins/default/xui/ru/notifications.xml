@@ -691,7 +691,7 @@
 
 Найти более подробную информацию на [_URL]?
 		<url name="url">
-			http://www.secondlife.com/corporate/sysreqs.php
+			http://www.secondlife.com/support/sysreqs.php
 		</url>
 		<usetemplate ignoretext="Оборудование моего компьютера не поддерживается" name="okcancelignore" notext="Нет" yestext="Да"/>
 	</notification>
