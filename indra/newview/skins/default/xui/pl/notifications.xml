@@ -618,6 +618,7 @@ Obiekt może znajdować się zbyt daleko albo został usunięty.
 		Niestety Twój komputer nie spełnia minimalnych wymogów sprzętowych dla poprawnego działania [APP_NAME]. Możesz odczuwać bardzo niską wydajność operacyjną. Niestety, portal pomocy [SUPPORT_SITE] nie jest w stanie zapewnić wsparcia technicznego dla Twojego systemu.
 
 Odwiedzić [_URL], aby uzyskać więcej informacji?
+		<url name="url" option="0">http://secondlife.com/support/sysreqs.php?lang=pl</url>       
 		<usetemplate ignoretext="Sprzęt w moim komputerze nie jest wspierany" name="okcancelignore" notext="Nie" yestext="Tak" />
 	</notification>
 	<notification name="OldGPUDriver">
