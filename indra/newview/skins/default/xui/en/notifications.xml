@@ -1862,7 +1862,7 @@ Visit [_URL] for more information?
     <tag>confirm</tag>
     <url option="0" name="url">
 
-			http://www.secondlife.com/corporate/sysreqs.php
+			http://www.secondlife.com/sysreqs.php
     </url>
     <usetemplate
      ignoretext="My computer hardware is not supported"
