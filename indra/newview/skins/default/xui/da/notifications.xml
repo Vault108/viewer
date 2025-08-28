@@ -250,6 +250,7 @@ Indtast venligst navn på region i Start lokation feltet eller vælg &quot;Min s
 		Din computer opfylder ikke minimumskravene til [APP_NAME]. Du kan risikere nedsat hastighed. Desværre kan [SUPPORT_SITE] ikke tilbyde teknisk support til konfigurationer der ikke er understøttet.
 
 Besøg [_URL] for yderligere information?
+		<url name="url" option="0">http://secondlife.com/support/sysreqs.php?lang=da</url>       
 		<usetemplate ignoretext="Din computer hardware understøttes ikke" name="okcancelignore" notext="No" yestext="Yes"/>
 	</notification>
 	<notification name="UnknownGPU">
